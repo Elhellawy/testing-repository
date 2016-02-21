@@ -1,2 +1,7 @@
 #include <iostream>
-saido
+
+using namespace std;
+int main()
+{
+
+}
